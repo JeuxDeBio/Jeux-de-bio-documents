@@ -1,8 +1,12 @@
-Base de données
-Fix le nombre de fenêtres qui s'ouvrent
-Lecture d'un fichier Excel
-Le fichier exécutable
-L'icône du jeu
-Accents dans les erreurs (et autres)
+Base de données N
+Document synthèse et PP B
+Fix le nombre de fenêtres qui s'ouvrent B
+Lecture d'un fichier Excel B
+Le fichier exécutable B
+L'icône du jeu N
+Ajouter nombre maximum de niveau par jeu (10) et permettre la suppression des niveaux N
+Ajouter les boutons de tutoriel sur le monde étudiant B
+Javadoc B
+Accents dans les erreurs (et autres JOptionPane dans le code) B / N
 (Monde sélection)
-Essayer de crash - espérer fail
+Essayer de crash - espérer fail B / N
