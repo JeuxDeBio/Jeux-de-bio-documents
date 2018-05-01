@@ -3,7 +3,11 @@ Document synthèse et PP B
 Fix le nombre de fenêtres qui s'ouvrent B
 Lecture d'un fichier Excel B
 Le fichier exécutable B
-L'icône du jeu N
+
+L'icône du jeu N (j'ai ajouté le code pour changer l'image dans monde principal. Il faut juste que tu met l'image, 
+que tu met son location dans modele, que tu ajoute les méthodes get dans modele et controleur, que tu met ça dans 
+la place indiqué et que tu copie-paste ce code dans chaque fenêtre :-D -B)
+
 Ajouter nombre maximum de niveau par jeu (10) et permettre la suppression des niveaux N
 Ajouter les boutons de tutoriel sur le monde étudiant B
 Javadoc B
