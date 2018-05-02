@@ -9,7 +9,6 @@ que tu met son location dans modele, que tu ajoute les méthodes get dans modele
 la place indiqué et que tu copie-paste ce code dans chaque fenêtre :-D -B)
 
 Ajouter nombre maximum de niveau par jeu (10) et permettre la suppression des niveaux N
-Ajouter les boutons de tutoriel sur le monde étudiant B
 Javadoc B
 Accents dans les erreurs (et autres JOptionPane dans le code) B / N
 (Monde sélection)
